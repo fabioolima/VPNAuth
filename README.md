@@ -16,6 +16,7 @@ $ cp vpnauth.sh /etc/openvpn/vpnauth.sh
 $ chmod +x /etc/openvpn/vpnauth.sh
 # Edit your server configuration
 # auth-user-pass-verify "/etc/openvpn/vpnauth.sh" via-file
+# To create a new user :
 $ /etc/openvpn/vpnauth.sh -c <user_name>
 ``` 
 License
