@@ -12,7 +12,7 @@ VPNAuth is an authentication script to Openvpn, can be used in the _auth-user-pa
 ### Installation
 
 ```sh
-$ cp ~/vpnauth.sh /etc/openvpn/vpnauth.sh
+$ cp vpnauth.sh /etc/openvpn/vpnauth.sh
 $ chmod +x /etc/openvpn/vpnauth.sh
 # Edit your server configuration
 # auth-user-pass-verify "/etc/openvpn/vpnauth.sh" via-file
