@@ -4,7 +4,7 @@
 # *
 # * @subpackage Bash Script
 # * @name vpnauth.sh
-# * @author Fabio Lima <fabioolima@gmail.com>
+# * @author Fabio Lima <fabioolima at gmail.com>
 # * @since 2016-06-05
 # * @version 1.0.0
 # * @license MIT
